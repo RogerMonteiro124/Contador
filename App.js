@@ -302,7 +302,7 @@ const styles = StyleSheet.create({
   Button: {
     width: 100,
     height: 100,
-    backgroundColor:'#00bfff',
+    backgroundColor:'#e0e0eb',
     padding: 25,
     marginHorizontal:5,
     alignItems:"center" 
